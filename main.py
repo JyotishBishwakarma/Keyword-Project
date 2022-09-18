@@ -1,1 +1,6 @@
-print("Testing git branching-Jyotish branch")
+import random
+
+a=4
+
+c=a*5
+print(f"multiple is {c}")
