@@ -19,3 +19,4 @@ def movies(search, page_num: int = 1, page_size: int = 10):
     return read_posts(data,page_num,page_size)
 
 
+
